@@ -1,0 +1,6 @@
+{
+  "name": "ProjectMatch // Synthesis",
+  "description": "Next-generation compatibility and team synthesis engine for hackathons, startups, and technical ventures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
